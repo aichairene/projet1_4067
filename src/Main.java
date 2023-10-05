@@ -6,5 +6,9 @@ public class Main {
         produitA.methodeA();
         produitA=produitFactory.getProduitA(produitFactory.TYPE_PRODUITA2);
         produitA.methodeA();
+        produitA=produitFactory.getProduitA(produitFactory.TYPE_PRODUITA3);
+       produitA.methodeA();
+
+
     }
 }
