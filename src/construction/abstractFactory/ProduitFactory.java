@@ -1,3 +1,4 @@
+package construction.abstractFactory;
 public abstract class ProduitFactory{
     public ProduitA getProduitA(){
         return createProduitA();
